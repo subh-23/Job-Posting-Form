@@ -2,10 +2,6 @@
 # Job Posting Website for Recruiter
 
 
-
-
-
-
 - Use React Hooks
 - Use Axios to Post data
 - Used Bootstrap for designing
